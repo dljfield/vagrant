@@ -12,4 +12,4 @@ echo "export LANG=C.UTF-8" >> /home/vagrant/.bashrc
 
 sudo apt-get update
 
-sudo apt-get install -qq curl unzip ack-grep software-properties-common build-essential
+sudo apt-get install -qq curl unzip ack-grep software-properties-common build-essential git
